@@ -13,8 +13,11 @@ namespace userInput
             Console.Write("Enter your name: ");
            string name =  Console.ReadLine();
             Console.Write("Enter your age: ");
-            string age = Console.ReadLine();
-            Console.WriteLine("Hello " + name + ", you are " + age + ".");
+           string age = Console.ReadLine();
+            Console.Write("Enter your favorite color: ");
+           string color = Console.ReadLine();
+
+            Console.WriteLine("Hello " + name + ", you are " + age + " and your favorite color is " + color + ".");
 
             Console.ReadLine();
         }

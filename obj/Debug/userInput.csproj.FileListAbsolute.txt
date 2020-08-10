@@ -5,3 +5,10 @@ C:\Users\jadan\Developer\C#\userInput\obj\Debug\userInput.csprojAssemblyReferenc
 C:\Users\jadan\Developer\C#\userInput\obj\Debug\userInput.csproj.CoreCompileInputs.cache
 C:\Users\jadan\Developer\C#\userInput\obj\Debug\userInput.exe
 C:\Users\jadan\Developer\C#\userInput\obj\Debug\userInput.pdb
+C:\Users\jadan\Developer\GitHub\userInput\bin\Debug\userInput.exe.config
+C:\Users\jadan\Developer\GitHub\userInput\bin\Debug\userInput.exe
+C:\Users\jadan\Developer\GitHub\userInput\bin\Debug\userInput.pdb
+C:\Users\jadan\Developer\GitHub\userInput\obj\Debug\userInput.csprojAssemblyReference.cache
+C:\Users\jadan\Developer\GitHub\userInput\obj\Debug\userInput.csproj.CoreCompileInputs.cache
+C:\Users\jadan\Developer\GitHub\userInput\obj\Debug\userInput.exe
+C:\Users\jadan\Developer\GitHub\userInput\obj\Debug\userInput.pdb
