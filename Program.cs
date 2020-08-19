@@ -14,7 +14,7 @@ namespace userInput
            string name =  Console.ReadLine();
             Console.Write("Enter your age: ");
            string age = Console.ReadLine();
-            Console.Write("Enter your favorite color: ");
+            Console.Write("Enter your favorite sport: ");
            string color = Console.ReadLine();
 
             Console.WriteLine("Hello " + name + ", you are " + age + " and your favorite color is " + color + ".");
