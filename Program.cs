@@ -17,7 +17,7 @@ namespace userInput
             Console.Write("Enter your favorite brand: ");
            string color = Console.ReadLine();
 
-            Console.WriteLine("Hello " + name + ", you are " + age + " and your favorite color is " + color + ".");
+            Console.WriteLine("Hello " + name + ", you are " + age + " and your favorite food is " + food + ".");
 
             Console.ReadLine();
         }
